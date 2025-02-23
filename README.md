@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 <!--
@@ -15,13 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm,
-Full Stack Java Developer with 4 years of experience in designing, developing, and managing complex applications and 
-systems. Proficient in Java, Spring Boot, and RESTful services. Experienced in cloud technologies, microservices, and 
-software development principles and best practices.
-
-SKILLS
-Full Stack Development — Java, Spring Boot, ReactJs, HTML, CSS, Javascript
+<!DOCTYPE html>
+<html>
+<body>
+## Hi there 👋<br/> 
+<strong>Summary</strong><br/> <p>
+I am a dedicated Software Developer with over 4 years of experience in designing, developing, and managing complex applications and microservices. Proficient in Java, Spring Boot, and RESTful services. Experienced in cloud technologies, microservices, and software development principles and best practices. </p>
+<br/> 
+<strong>Skill</strong>
+<pre>
+Full Stack Development — Java, Spring Boot, ReactJs, HTML, CSS, JavaScript
 Database Technology — PL/SQL, MySQL Database, Oracle Database
 Scripting — Shell Scripting, Python
 Tools and Technology — Jenkin, Docker, Git, Azure Cloud, Microservices
+</pre>
+
+</body>
+</html>
