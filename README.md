@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Hi there 👋 
 <br/> <br/>
 <strong>Summary</strong><br/> <p>
-I am a dedicated Software Developer with over 4 years of experience in designing, developing, and managing complex applications and microservices. Proficient in Java, Spring Boot, RESTful API and ReactJs.  </p>
+I am a dedicated Software Developer with over 4 years of experience in designing, developing, and managing complex applications and microservices. Proficient in Java, Spring Boot, RESTful API JavaScript and ReactJs. </p>
 <br/> 
 <strong>Skill</strong>
 <pre>
