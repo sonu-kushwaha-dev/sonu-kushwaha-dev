@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
 <body>
-## Hi there 👋<br/> 
+Hi there 👋 
+<br/> <br/>
 <strong>Summary</strong><br/> <p>
 I am a dedicated Software Developer with over 4 years of experience in designing, developing, and managing complex applications and microservices. Proficient in Java, Spring Boot, and RESTful services. Experienced in cloud technologies, microservices, and software development principles and best practices. </p>
 <br/> 
