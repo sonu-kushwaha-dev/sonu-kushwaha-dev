@@ -25,6 +25,7 @@ I am a dedicated Software Developer with over 4 years of experience in designing
 <br/> 
 <strong>Skill</strong>
 <pre>
+Subject — Data Structures and Algorithms, Design Patterns
 Full Stack Development — Java, Spring Boot, ReactJs, HTML, CSS, JavaScript
 Database Technology — PL/SQL, MySQL Database, Oracle Database
 Scripting — Shell Scripting, Python
